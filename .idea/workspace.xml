@@ -4,19 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8505da8e-e0a3-46a3-b2fe-db8a5b1d1d7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StreamAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1/HomeWork/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1/HomeWork/NumberHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Seminar/Task_1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Seminar/Task_1/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Seminar/Task_1/Main.java" afterDir="false" />
+    <list default="true" id="8505da8e-e0a3-46a3-b2fe-db8a5b1d1d7e" name="Changes" comment="Lesson_3: homeWork">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/HomeWork/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/HomeWork/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/HomeWork/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Seminar/Task_1/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Seminar/Task_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Seminar/Task_1/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Seminar/Task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,9 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pvHOfr36GQChGO0cI4zeabxDCd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,10 +49,19 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programs\Java\StreamAPI\src\Lesson_3\Seminar\Task_1\Datas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson_3.HomeWork" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +71,30 @@
       <option name="presentableId" value="Default" />
       <updated>1733639600107</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson_1: task_1, homeWork">
+      <option name="closed" value="true" />
+      <created>1733646352663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733646352663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_1: task_1, homeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_1: task_1, homeWork" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson_3/HomeWork/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
